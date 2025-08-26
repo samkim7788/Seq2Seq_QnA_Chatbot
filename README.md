@@ -7,7 +7,7 @@
 [https://github.com/songys/Chatbot_data]
 
 출처 : Chatbot_data_for_Korean v1.0
-)
+
 
 데이터 출처 및 범위
 
