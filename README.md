@@ -18,6 +18,6 @@
 일상다반사 0, 이별(부정) 1, 사랑(긍정) 2로 레이블링
 
 <br />
-# 결과<br />
+###  결과<br />
 
 <img width="672" height="662" alt="image" src="https://github.com/user-attachments/assets/2eaaefdd-eda2-47bf-b0f7-6c868f82122e" />
